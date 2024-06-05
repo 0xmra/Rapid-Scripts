@@ -1,7 +1,7 @@
 # Rapid Scripts: Automated USB Setup 🚀
 
 **Description:**
-Rapid Scripts is a project that offers automated scripts for quickly setting up USB systems tailored to various projects, including:
+Rapid Scripts is a project that offers automated scripts for quickly setting up live USB systems `(Linux)` tailored to various projects, including:
 
 - Malware analysis 🛡️
 - Penetration testing 🔍
