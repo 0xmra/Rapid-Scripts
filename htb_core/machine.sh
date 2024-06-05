@@ -26,6 +26,4 @@ sudo dpkg -i *.deb
 brave-browser --new-window discord.com/login
 brave-browser --new-window app.hackthebox.com
 brave-browser --new-window academy.hackthebox.com
-
-
-
+brave-browser --new-window discord.com/login
