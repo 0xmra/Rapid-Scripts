@@ -15,7 +15,7 @@ sudo apt-get install gobuster
 
 sudo gobuster
 
-wget -p ../../../home/kali/Downloads https://vscode.download.prss.microsoft.com/dbazure/download/stable/e170252f762678dec6ca2cc69aba1570769a5d39/code_1.88.1-1712771838_amd64.deb
+code -y 
 wget -P ../../../home/kali/Downloads https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.12/obsidian_1.5.12_amd64.deb
 
 cd ../../../home/kali/Downloads 
