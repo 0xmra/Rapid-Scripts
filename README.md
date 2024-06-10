@@ -18,7 +18,7 @@ These scripts streamline the setup process, eliminating the need for manual inte
 ## Running a Bash Shell on Linux
 
 1. **Open Terminal**: Use a shortcut like `Ctrl + Alt + T`.
-2. **Clone the Repo**: 
+2. **Run Git Clone**:  
     ```bash
     git clone https://github.com/0xmra/Rapid-Scripts.git
     ```
