@@ -64,8 +64,8 @@ function is_installed() {
 # Function to install software (General Programming)
 function install_software() {
   xfce4-mouse-settings
-  sudo apt install code-oss
   sudo apt-get update
+  sudo apt install code-oss
   sudo wget -P ../../../home/kali/Downloads/ --no-check-certificate "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.3/obsidian_1.6.3_amd64.deb"
   cd ../../../home/kali/Downloads/
   sudo dpkg -i *.deb
