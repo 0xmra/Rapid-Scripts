@@ -76,6 +76,7 @@ function install_software() {
   sudo apt update
   sudo apt install brave-browser
 
+  brave-browser --new-window github.com/login
   brave-browser --new-window discord.com/login
   brave-browser --new-window app.hackthebox.com
   brave-browser --new-window academy.hackthebox.com
