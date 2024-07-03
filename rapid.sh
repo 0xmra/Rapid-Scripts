@@ -91,6 +91,7 @@ function setup_git() {
 
 # Function to install Motion Canvas projects
 function install_canvas() {
+  sudo apt-get update
   npm -y 
   node -y
   cd ../../../home/kali/Documents/ 
