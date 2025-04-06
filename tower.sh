@@ -40,7 +40,6 @@ else
     else
         clear
 	echo -e "${RED}Failed to mount /🗼/ Tower. Server might be down.${RESET}"
-        exit 0
     fi
 fi
 
